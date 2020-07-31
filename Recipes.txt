@@ -5,3 +5,7 @@ Rice
 
 Cupcake
 Icecream
+
+Apple
+Orange
+Banana
